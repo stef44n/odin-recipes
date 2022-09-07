@@ -11,7 +11,7 @@
 <ul>
   <li>Learn the basics of HTML
   <li>Structure websites using HTML tags: headings, links, images, lists etc.
-  <li>Introduction to GitHub, commiting and pushing changes for the first time
+  <li>Introduction to GitHub, commit and push changes for the first time
 </ul>
 
 <!-- <h3 align="left">Biggest challenges</h3>
@@ -26,4 +26,5 @@
 <h3 align="left">Credits:</h3>
 <ul>
   <li><a href="https://www.allrecipes.com/">Allrecipes</a>
+  <li><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Rahuldkjain - ReadMe generator</a>
 </ul>
