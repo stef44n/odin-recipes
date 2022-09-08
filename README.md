@@ -5,13 +5,14 @@
 <h3 align="left">Description</h3>
 <p align="left"> This is the first assignment from <strong>The Odin Project's</strong> <i>Foundations Course</i>, which you can find <a href="https://www.theodinproject.com/lessons/foundations-recipes">here</a>.
 </p>
-<p>The main aim of this project was getting used to the syntax and being able to use the HTML tags correctly, while the content and styling of the webpage initially took a backseat.</p>
+<p>The main aim of this project was getting used to the HTML syntax and being able to use the tags correctly, while the content and styling of the webpage (initially) took a backseat.</p>
 
 <h3 align="left">Key objectives:</h3>
 <ul>
   <li>Learn the basics of HTML
   <li>Structure websites using HTML tags: headings, links, images, lists etc.
   <li>Introduction to GitHub, commit and push changes for the first time
+  <li>Use CSS to add basic styling to the page
 </ul>
 
 <!-- <h3 align="left">Biggest challenges</h3>
